@@ -19,5 +19,5 @@
 <!-- GitHub Stats Card -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yahyakhan-pk&show_icons=true&locale=en&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
 
-<!-- GitHub Streak Card -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahyakhan-pk&background=0d1117&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&stroke=c9d1d9&ring=58a6ff&fire=ff4500" />
+<!-- GitHub Streak Card (fixed color) -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahyakhan-pk&background=0d1117&currStreakLabel=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&stroke=c9d1d9&ring=58a6ff&fire=ff4500" />
