@@ -5,9 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yahya-khan-1310b7304?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bohh7p1virtclofapcuuckq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yahya-khan-1310b7304?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bohh7p1virtclofapcuuckq%3d%3d" height="30" width="40" /></a>
-<a href="yahyakhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1bfj4hhe9a/" height="30" width="40" /></a>
-<a href="yahyakhan6155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yahyakhan6155" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yahya-khan-1310b7304/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yahya-khan-1310b7304?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bohh7p1virtclofapcuuckq%3d%3d" height="30" width="40" /></a>
+<a href="https://www.facebook.com/yahya.khan.152550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1bfj4hhe9a/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yahyakhan6155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yahyakhan6155" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
